@@ -44,7 +44,8 @@
 ## Conclusão
 
 #### A linguagem C continua a ser uma escolha popular entre programadores e desenvolvedores devido à sua eficiência, portabilidade e controle sobre o hardware. Embora existam muitas linguagens de programação modernas que oferecem abstrações e recursos adicionais, a C permanece fundamental na educação em ciência da computação e no desenvolvimento de software crítico. Aprender C pode fornecer uma base sólida para entender conceitos de programação e sistemas computacionais.
-
+## C Learn:
+-[Link:](https://www.learn-c.org/)
 
 ## Autores
 - [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
