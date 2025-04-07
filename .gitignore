@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Arquivos de configuração
+*.env
+*.local
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+*.cache
+*.egg-info/
+dist/
+build/
+
+# Outros
+*.DS_Store
+*.egg
+*.egg-info/
+*.pyc
+*.pyo
+*.pyd
+*.coverage
+*.cover
+*.hypothesis/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.pot
+*.py[cod]
+*.pyd
+*.pyo
+*.pdb
+*.egg-info/
+*.whl
