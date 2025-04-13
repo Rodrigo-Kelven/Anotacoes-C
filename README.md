@@ -1,4 +1,6 @@
 # Anotações C
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+
 #### Repositório dedicado para guardar anotações e explicações de códigos na linguagem C. Não segue padrões de clean code nem organização, tudo é voltado para a explicação.
 
 ##### A linguagem C é uma das linguagens de programação mais influentes e amplamente utilizadas no mundo da computação. Desenvolvida no início dos anos 1970 por Dennis Ritchie na Bell Labs, a C foi projetada inicialmente para desenvolver o sistema operacional UNIX, mas rapidamente se tornou uma linguagem de propósito geral, sendo utilizada em uma ampla variedade de aplicações.
